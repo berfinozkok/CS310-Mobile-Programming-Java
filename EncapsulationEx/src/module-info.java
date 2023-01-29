@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Berfin
+ *
+ */
+module EncapsulationEx {
+}
